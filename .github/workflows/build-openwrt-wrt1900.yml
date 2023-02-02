@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build openwrt wrt1900ac Ubuntu20
+name: Build openwrt wrt1900ac
 
 on:
   repository_dispatch:
